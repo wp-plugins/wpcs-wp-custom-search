@@ -21,7 +21,7 @@ The domestic WordPress Search overlooks critical website content.The visitors ma
 
 Just install and activate and use a simple shortcode or widget anywhere to replace WordPress native search using your existing results template.
 
-== Key Features ==
+= Key Features =
 
 1. Easy to Install.
 2. Search WP Category.
@@ -40,9 +40,10 @@ Just install and activate and use a simple shortcode or widget anywhere to repla
 15. No major setting.
 16. Easy to Customize.
 
-== Note ==
+= Note =
 
 You Can Easily use WP Custom Search Plugin with a simple shortcode. [wpcs_search] or you can use widgets, add it anywhere and enjoy searching..
+
 
 == Installation ==
 
@@ -64,13 +65,13 @@ Yes, after plugin activation you can find two widgets in widget area.
 1. WPCS Search - For search box
 2. Most Viewed Posts - This widget gives you top most viewed posts
 
-2) Does it work fine with the latest version of wordpress? 
+= Does it work fine with the latest version of wordpress?  =
 
-= It has been tested upto Version 4.2.2 =
+  It has been tested upto Version 4.2.2
 
-3) Can I customize it, as per my need? 
+= Can I customize it, as per my need? =
 
-= It is easy to customize but skill is a factor here. =
+  It is easy to customize but skill is a factor here.
 
 * If you face any issue, you may reach us [here](http://www.tech9logy.com/contact/) or write us at hello@tech9logy.com.
 
@@ -83,6 +84,7 @@ Yes, after plugin activation you can find two widgets in widget area.
 == Changelog ==
 
 = 1.0 =
+
 * Initial Release
 
 == Upgrade Notice ==
