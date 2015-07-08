@@ -10,6 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 == Description ==
+
 WP Custom Search is a simple and lightweight Plugin that allows you to search anything on your wordpress.
 
 After the WPCS Plugin activation you can instantly install, setup and utilize it to its full extent. It was designed to help developers in every aspect, empowering them subtle control and customization.It allows the users to search posts, custom post type, taxomonies, custom taxonomies, tags and many more..
