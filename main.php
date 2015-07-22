@@ -32,7 +32,7 @@ register_activation_hook(__FILE__, 'wpcs_activation');
 add_action( 'admin_menu', 'register_wpcs_menu_page' );
 function register_wpcs_menu_page(){
 
-    	add_menu_page( 'WP Custom Search', 'WP Custom Search', 'manage_options', 'wpcs-overview', 'wpcs_overview_callback','' );
+    add_menu_page( 'WPCS', 'WPCS', 'manage_options', 'wpcs-overview', 'wpcs_overview_callback', plugins_url( 'img/wpcs-icon.png', __FILE__ ) );
 	add_submenu_page( 'wpcs-overview', 'Settings', 'Settings', 'manage_options', 'wpcs-settings', 'wpcs_settings_callback' );
 	
 }
