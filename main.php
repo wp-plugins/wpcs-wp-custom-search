@@ -3,7 +3,7 @@
 Plugin Name: WPCS ( Wordpress Custom Search )
 Plugin URI: http://www.tech9logy.com
 Description: A very simple and lightweight Plugin for adding Custom Search with taxonomy in wordpress, with just a short code.
-Version: 1.0
+Version: 1.1
 Author: Tech9logy Creators
 Author URI: http://www.tech9logy.com
 */

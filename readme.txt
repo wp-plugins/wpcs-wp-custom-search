@@ -4,7 +4,7 @@ Donate link: http://www.tech9logy.com/pay-with-paypal/
 Tags: Search, custom, custom search, advanced search, search anything, search taxonomy, taxonomy, custom taxonomy, search custom taxonomy, advanced taxonomy search, taxonomy search, advanced search for taxonomy, advanced search for custom taxonomy, search wp category, category search, search category, tags, tags search, custom tags search, search tags,view count, post count, post view count,top viewed post, most viewed post, widgets, search widgets, post widgets, post count widget, search box widget, custom search widget, customize widget
 Requires at least: 3.5
 Tested up to: 4.2.2
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -87,7 +87,17 @@ Yes, after plugin activation you can find two widgets in widget area.
 
 * Initial Release
 
+= 1.1 =
+* Newly identfied bugs fixed
+
+
 == Upgrade Notice ==
 
 = 1.0 =
 * This is the initial release of the plugin.
+
+= 1.1 =
+* Settings isuue fixed 
+* Compatible on all browesers
+* Plugin menu changed
+* Plugin Icon upload
